@@ -6,7 +6,7 @@
   "globals_path" : "",
 
   "selenium" : {
-    "start_process" : true,
+    "start_process" : false,
     "server_path" : "",
     "log_path" : "",
     "host" : "127.0.0.1",
