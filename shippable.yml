@@ -9,4 +9,4 @@ services:
   - selenium
 
 script:
- - xvfb-run npm test
+ - DISPLAY=:99 xvfb-run npm test
