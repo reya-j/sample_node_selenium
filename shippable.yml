@@ -7,9 +7,6 @@ node_js:
 
 services:
   - selenium
-  
-env:
-  - DISPLAY=:99.0
-  
+
 script:
  - xvfb-run --server-args="-ac" npm test
