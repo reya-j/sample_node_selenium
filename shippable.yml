@@ -1,4 +1,4 @@
-build_image: drydock/u14nodpls:tip
+build_image: drydock/u12nodpls:tip
 
 language: node_js
 
