@@ -9,4 +9,4 @@ services:
   - selenium
 
 script:
- - xvfb-run --server-args="-ac" npm test
+ - xvfb-run --server-args="-ac" npm test 
